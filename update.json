@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 7,
-  "versionName": "2.2.VE",
+  "versionCode": 8,
+  "versionName": "2.21",
   "downloadUrl": "https://github.com/Regolanus/Android_EMUL_Updates/raw/main/X-Link_v2.2.VE.apk",
-  "releaseNotes": "• Исправлена циклическая проверка обновлений\n• Улучшена логика Reader Mode\n• Поддержка универсальных AID"
+  "releaseNotes": "• Версия 2.21: Исправлена циклическая проверка\n• Улучшена стабильность загрузки конфигурации\n• Оптимизирован режим чтения NFC"
 }
