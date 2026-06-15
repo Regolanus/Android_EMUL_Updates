@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 9,
-  "versionName": "2.22",
+  "versionCode": 10,
+  "versionName": "2.2.VE",
   "downloadUrl": "https://github.com/Regolanus/Android_EMUL_Updates/raw/main/X-Link_v2.2.VE.apk",
-  "releaseNotes": "• Исправлено: Диалог обновления теперь корректно закрывается после синхронизации версий\n• Версия V.2.22: Финальный тест системы OTA"
+  "releaseNotes": "• Версия 2.2.VE (Финальная сборка)\n• Отмена универсальных фильтров\n• Возврат к стабильной логике распознавания карт"
 }
